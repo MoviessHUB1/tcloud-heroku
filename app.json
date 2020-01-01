@@ -1,7 +1,7 @@
 {
-	"name": "Tcloud",
+	"name": "TorrentHub",
 	"description": "File sharing and torrent downloading",
-	"repository": "https://github.com/Lunik/tcloud",
+	"repository": "https://github.com/MoviessHUB1/tcloud-heroku",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": [
 		"torrent",
